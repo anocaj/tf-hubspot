@@ -52,7 +52,7 @@
   - Test error handling for each method
   - _Requirements: 2.1, 2.2, 2.3, 2.4_
 
-- [ ] 5. Implement Contact resource
+- [x] 5. Implement Contact resource
   - Create contact_resource.go with resource schema (id, email, firstname, lastname, properties)
   - Implement Create method calling client.CreateContact
   - Implement Read method calling client.GetContact with 404 handling
