@@ -37,7 +37,7 @@
   - Test validation errors for invalid credentials
   - _Requirements: 1.3, 1.4, 1.5_
 
-- [ ] 4. Implement Contact API client methods
+- [x] 4. Implement Contact API client methods
   - Create Contact model struct with JSON tags
   - Implement CreateContact method with POST to /crm/v3/objects/contacts
   - Implement GetContact method with GET to /crm/v3/objects/contacts/{id}
