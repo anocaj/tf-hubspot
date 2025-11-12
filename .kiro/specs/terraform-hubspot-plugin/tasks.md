@@ -22,7 +22,7 @@
   - Test authentication error handling
   - _Requirements: 7.1, 7.3, 7.4_
 
-- [ ] 3. Implement provider configuration
+- [x] 3. Implement provider configuration
   - Create provider schema with api_token, api_url, and api_version fields
   - Mark api_token as sensitive in schema
   - Implement environment variable support for HUBSPOT_API_TOKEN
